@@ -14,7 +14,7 @@ An AI system that allows users to query the contents of a YouTube video transcri
 * **Framework**: Built using LangChain and OpenAI.
 * **Workflow**: Implements document loading, text splitting, FAISS vector storage, and an LCEL retrieval chain.
 
-### 3. Weather Event Data Analysis (`22p_9177_sudais_assignment_2.py`)
+### 3. Weather Event Data Analysis (`Weather Predictor.py`)
 A comprehensive data science workflow for cleaning and analyzing weather event datasets.
 * **Data Cleaning**: Automated handling of missing values and datetime feature engineering.
 * **Analysis**: Includes outlier detection via IQR, correlation heatmaps, and geospatial event mapping.
